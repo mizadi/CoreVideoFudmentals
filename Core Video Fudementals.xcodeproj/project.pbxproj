@@ -6,8 +6,13 @@
 	objectVersion = 77;
 	objects = {
 
+/* Begin PBXBuildFile section */
+		B6FE0E4E2E64C88500A0D2A7 /* README.md in Resources */ = {isa = PBXBuildFile; fileRef = B6FE0E4D2E64C88000A0D2A7 /* README.md */; };
+/* End PBXBuildFile section */
+
 /* Begin PBXFileReference section */
 		B61CA9562E6089D5009F77C7 /* Core Video Fudementals.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Core Video Fudementals.app"; sourceTree = BUILT_PRODUCTS_DIR; };
+		B6FE0E4D2E64C88000A0D2A7 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFileSystemSynchronizedRootGroup section */
@@ -32,6 +37,7 @@
 		B61CA94D2E6089D5009F77C7 = {
 			isa = PBXGroup;
 			children = (
+				B6FE0E4D2E64C88000A0D2A7 /* README.md */,
 				B61CA9582E6089D5009F77C7 /* Core Video Fudementals */,
 				B61CA9572E6089D5009F77C7 /* Products */,
 			);
@@ -109,6 +115,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				B6FE0E4E2E64C88500A0D2A7 /* README.md in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
